@@ -1,4 +1,4 @@
-
+Coding challenge made for By-Bits. The main core of the app is the Api call to post the userName and Password to receive an access token. The access token is being used immediately after to authenticate and retreive the informations of the policy holder. I've decided to use react-router to navigate from the Login component to the dataHolder component. I've spent around two hours to get the task done trying to make the style visually appealing as well. With more time I would have try to simulate better the auth system(given the fact that the Api still let you see the details even without the access token). I would have also trying to use some transitions from the login component to the dataHolder for a better user experience. 
 
 
 
